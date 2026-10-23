@@ -1,0 +1,5 @@
+blink_session.json
+__pycache__/
+blink_credenciales.json
+node_modules/
+prueba/
